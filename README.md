@@ -1,2 +1,2 @@
 # expense_tracker
- Another app
+ Another app built by following a course
